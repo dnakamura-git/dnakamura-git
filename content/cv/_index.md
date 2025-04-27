@@ -4,7 +4,7 @@ draft = false
 title = 'CV'
 +++
 
-You can download my full CV [here](https://nbviewer.org/github/dnakamura-git/dnakamura-git/blob/935db38bb92273b2a6de296d17b2ba014891c898/static/files/DaisukeNakamura_CV_Simple.pdf).
+You can download my full CV [here](files/DaisukeNakamura_CV_Simple.pdf).
 
 ---
 
