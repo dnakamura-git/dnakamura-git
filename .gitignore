@@ -1,0 +1,24 @@
+# Ignore generated files
+/public/
+
+# Ignore PDF files in static/
+static/*.pdf
+
+# Ignore node_modules (if using Node.js or npm)
+node_modules/
+
+# Ignore MacOS specific files
+.DS_Store
+
+# Ignore swap files (used by Vim, Emacs, etc.)
+*~
+*.swp
+
+# Ignore VS Code editor settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
