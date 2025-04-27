@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/dnakamura-git.github.io'
+baseURL = 'https://dnakamura-git.github.io/dnakamura-git/'
 languageCode = 'en-us'
 title = 'Daisuke Nakamura'
 theme = 'PaperMod'
