@@ -1,8 +1,9 @@
 # Ignore generated files
 /public/
 
-# Ignore PDF files in static/
-static/*.pdf
+# Ignore files in static/
+
+static/files/
 
 # Ignore node_modules (if using Node.js or npm)
 node_modules/
