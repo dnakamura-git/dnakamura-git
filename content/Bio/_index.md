@@ -6,7 +6,7 @@ title = 'Bio'
 
 Daisuke Nakamura is a master's student in Communicaiton Science at the University of Vienna, Austria. 
 
-His interest includes political communication, polarisation, and computational method. 
+His interest includes political communication, polarisation, radicalisation, and computational method. 
 
 He earned his BA in law and politics from Kyoto University, Japan in 2024. In 2022, he went on an exchange programme to the University of Melbourne, Australia, studying liberal arts and sciences. 
 
