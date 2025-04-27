@@ -4,7 +4,7 @@ draft = false
 title = 'CV'
 +++
 
-You can download my full CV [here](../static/files/DaisukeNakamura_CV_Simple.pdf).
+You can download my full CV [here](/static/files/DaisukeNakamura_CV_Simple.pdf).
 
 ---
 
